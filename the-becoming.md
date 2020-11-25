@@ -28,14 +28,35 @@ But to do that, you have to target specific skills and so be able to reflect, id
    1. Quantify growth points
    1. Be open to share
 1. Leadership & Management
+   1. Be Human. Balance Productivity with Wellness
+   1. Organizational Culture and work-social interactions are critical. Actively build and support a heathly environment
+      1. Start with customer focused Tenets that drive org structure
+   1. Protect the Business from itself
    1. Identify roles and chains of responsibility
    1. Chains of responsibility help reduce information overload, "noise" levels, inefficiencies and promote focus
    1. Find like minded people
    1. Find people to fill your gaps
    1. Find people to scale yourself
    1. Grow people, build teams, lead from empathy, help people understand what they want, let them follow that even if it means losing them
+   1. Listen with Empathy and Engage with Respect and Contructive Dialogue with the Backbone to drive forward
    1. Processes to support people, not control them
-   1. Make Finance numbers available to and understood by people so they can hold themselves accountable
-   1. Create structural support for each role in the business
-   1. Reflect, identify and course correct
-   1. Help develop, simplify and maintain the bigger perspectives
+      1. Make Finance numbers available to and understood by people so they can hold themselves accountable
+      1. Create structural support for each role in the business
+      1. Adapt ideas/thinking and processes/planning to meet the needs of the teams (secondary), projects (tertiary) and customers (primary). They're all critical so learn to get creative - Yes I'm copping out in explaining that further :)
+   1. Stop, Reflect, Identify and improve/fix/course correct
+      1. Help develop, simplify and maintain the bigger perspectives
+      1. Help frame problems with simple words and in contect of both the customers and business
+      1. Actively work to demistify
+      1. Be alert/aware of biases and actively work to highlight/adjust/change them
+      1. Create Mechanisms & Feedback Loops for easily and actively raising awareness (not newsletters/blogs, these are references for post active awareness actions - TODO: grrr words are hard today)
+      1. Find inefficiencies and massage them out
+1. Delivering Value
+   1. Must be defined and driven at all levels of a company
+   1. Be deliberate with high-level inception/ideation, goal setting (success & failure metrics), prioritization, planning, resourcing, communications channels, taking actions, feedback/monitoring mechanisms, retrospectives and celebrations.
+   1. Move to 1 of Programme or Project management depending on people needed
+   1. Programme Management
+      1. Usually involving teams across multiple organisations/companies/customer bases
+      1. Goals are planned at quarterly level of granularity
+   1. Project Management
+      1. Multi-team scope within an organisation
+      1. Goals are planned at weekly or monthly level of granularity
