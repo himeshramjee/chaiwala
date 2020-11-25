@@ -1,6 +1,15 @@
 # chaiwala - a vision for many things
 
-Thoughts, notes, artifacts etc on building out my chaiwala vision
+Thoughts, notes, artifacts etc on building out my chaiwala vision.
+_chaiwala_, the literal meaning comes from a hindi term that refers to a tea seller that also has the very humble backdrop of being a street seller.
+
+## What does name 'chaiwala' mean to me?
+
+For me; the name _Chaiwala_ is a reminder to be human, to be humble, to be content, to have ambition and to think big and to not be complacent. It's a life long challenge to live in this world but not be of this world. hehehehe deep bro...Nah it's simple if you just ponder and ramble on a bit :).
+It's a reminder to humanize problems you see in others, to stay respectful and to learn how to prioritise what you focus on. It's a reminder to not get caught up in other peoples thoughts and follow the masses. Learn how to reflect on your self, listen to your feelings and gut and then make objective decisions.
+The result of all this? Consistent growth in life and becoming an original thinker and doer that's resourceful and confident in helping individuals grow.
+
+Well that's what it means for now. ;-)
 
 ## Short term
 
