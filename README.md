@@ -3,7 +3,11 @@
 Thoughts, notes, artifacts etc on building out my chaiwala vision.
 _chaiwala_, the literal meaning comes from a hindi term that refers to a tea seller that also has the very humble backdrop of being a street seller.
 
-## What does name 'chaiwala' mean to me?
+## What does the name 'chaiwala' mean to me?
+
+"Chaiwala" refers to a kind of persona through which I explore and drive long term personal projects and goals. At the least you can think of it as a simple project name. Yes, it's my own thoughts and expressions so why not just write like a normal person! lol :)
+I use the third person so to speak to ensure that stay as objective as I can. What I want Chaiwala to reflect, are hopefully timeless first principles that my future generations can consume, adopt and use to make bigger strides in their personal goals much earlier in their lives.
+Then there's the other side of Chaiwala.
 
 For me; the name _Chaiwala_ is a reminder to be human, to be humble, to be content, to have ambition and to think big and to not be complacent. It's a life long challenge to live in this world but not be of this world. hehehehe deep bro...Nah it's simple if you just ponder and ramble on a bit :).
 It's a reminder to humanize problems you see in others, to stay respectful and to learn how to prioritise what you focus on. It's a reminder to not get caught up in other peoples thoughts and follow the masses. Learn how to reflect on your self, listen to your feelings and gut and then make objective decisions.
